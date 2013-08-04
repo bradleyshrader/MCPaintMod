@@ -14,14 +14,15 @@ Licensing:
 ==========
 
 This mod is presented under the Minecraft Mod Public License (MMPL), presented in this file below, 
-as well as the license file included with this repository. All sources not specifically listed 
-following this paragraph are listed under the MMPL, and must therefore be distributed under the terms of that license.
+as well as the license file included with this repository. All sources listed following this paragraph 
+are not listed under the MMPL, and must therefore be distributed under the terms of their respective license.
 
 The following sources are not the original work of bradleyshrader, and therefore must be distributed under their respective licenses.
 Each of the licenses is provided here, as well as the license file included in the repository, and each entry in this list contains the
 name of its respective license:
 
 - CodeChickenLib: by chickenbones. -GNU Lesser General Public License
+- Developer Capes: by Jadar. -GNU Lesser General Public License
 - Forestry API: by SirSengir. (No source included. Only referenced through Class, Field, and Method via Sun Microsystems's java.lang.reflect API)
 
 Please note that all reasonable steps were taken to give credit where credit is due, as well as to fulfill the requests laid forth by original authors.
